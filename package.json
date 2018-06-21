@@ -1,7 +1,7 @@
 {
-  "name": "@schibstedspain/sui-svgiconset",
-  "version": "1.6.0",
-  "description": "ReactJS SUI SVG iconset",
+  "name": "materialdesignicons",
+  "version": "0.0.1",
+  "description": "ReactJS SUI SVG iconset for materialdesignicons",
   "main": "lib/",
   "scripts": {
     "clean:components": "rimraf ./components/*",

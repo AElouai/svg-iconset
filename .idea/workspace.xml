@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9bbd509-af59-47e3-abd1-e702f25c6af2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/docs/componentsList.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/componentsList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/account-login.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg/appartement.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/account-logout.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/action-redo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/action-undo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/align-center.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/align-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/align-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/aperture.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/arrow-bottom.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/arrow-circle-bottom.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/arrow-circle-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/arrow-circle-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/arrow-circle-top.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/arrow-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/arrow-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/arrow-thick-bottom.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/arrow-thick-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/arrow-thick-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/arrow-thick-top.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/arrow-top.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/audio-spectrum.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/audio.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/badge.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/ban.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/bar-chart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/basket.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/battery-empty.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/battery-full.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/beaker.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/bell.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/bluetooth.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/bold.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/bolt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/book.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/bookmark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/box.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/briefcase.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/british-pound.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/brush.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/bug.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/bullhorn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/calculator.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/calendar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/camera-slr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/camera.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/caret-bottom.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/caret-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/caret-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/caret-top.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/cart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/chat.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/check.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/checkbox-checked.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/checkbox-unchecked.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/chevron-bottom.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/chevron-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/chevron-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/chevron-top.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/circle-check.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/circle-x.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/clipboard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/clock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/close.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/cloud-download.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/cloud-upload.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/cloud.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/cloudy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/code.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/cog.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/collapse-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/collapse-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/collapse-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/collapse-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/command.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/comment-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/compass.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/contrast.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/copywriting.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/credit-card.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/crop.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/dashboard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/data-transfer-download.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/data-transfer-upload.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/delete.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/dial.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/document.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/dollar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/double-quote-sans-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/double-quote-sans-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/double-quote-serif-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/double-quote-serif-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/droplet.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/eject.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/elevator.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/ellipses.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/envelope-closed.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/envelope-open.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/euro.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/excerpt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/expand-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/expand-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/expand-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/expand-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/external-link.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/eye.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/eyedropper.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/file.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/fire.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/flag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/flash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/folder.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/fork.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/fullscreen-enter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/fullscreen-exit.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/globe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/graph.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/grid-four-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/grid-three-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/grid-two-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/hard-drive.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/header.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/headphones.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/heart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/home.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/image.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/inbox.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/infinity.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/info.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/italic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/justify-center.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/justify-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/justify-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/key.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/laptop.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/layers.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/lightbulb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/line-check.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/line-error.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/line-info.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/line-warning.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/link-broken.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/link-intact.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/list-rich.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/list.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/location.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/lock-locked.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/lock-unlocked.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/loop-circular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/loop-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/loop.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/magnifying-glass.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/map-marker.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/map.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/media-pause.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/media-play.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/media-record.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/media-skip-backward.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/media-skip-forward.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/media-step-backward.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/media-step-forward.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/media-stop.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/medical-cross.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/menu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/microphone.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/minus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/monitor.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/moon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/move.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/musical-note.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/paperclip.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/pencil.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/people.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/person.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/phone.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/pie-chart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/pin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/play-circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/plus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/power-standby.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/print.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/project.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/pulse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/puzzle-piece.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/question-mark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/rain.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/random.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/reload.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/resize-both.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/resize-height.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/resize-width.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/rss-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/rss.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/script.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/share-boxed.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/share.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/shield.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/signal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/signpost.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/social-facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/social-github.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/social-googleplus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/social-instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/social-linkedin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/social-pinterest.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/social-tumblr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/social-twitter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/social-vimeo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/social-youtube.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/sort-ascending.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/sort-descending.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/spreadsheet.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/star-empty.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/star-half.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/star.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/sun.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/tablet.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/tag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/tags.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/target.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/task.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/terminal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/text.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/thumb-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/thumb-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/timer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/transfer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/trash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/underline.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/vertical-align-bottom.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/vertical-align-center.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/vertical-align-top.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/video.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/volume-high.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/volume-low.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/volume-off.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/warning.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/wifi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/wrench.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/x.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/yen.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/zoom-in.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/zoom-out.svg" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appartement.svg" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/svg/appartement.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/index.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/svg/appartement.svg" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="svg-iconset" type="b2602c69:ProjectViewProjectNode" />
+              <item name="svg-iconset" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="svg-iconset" type="b2602c69:ProjectViewProjectNode" />
+              <item name="svg-iconset" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="svg-iconset" type="b2602c69:ProjectViewProjectNode" />
+              <item name="svg-iconset" type="462c0819:PsiDirectoryNode" />
+              <item name="svg" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/svg" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23853211" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32880098" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32880098" />
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32880098" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/svg/arrow-bottom.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svg/arrow-circle-bottom.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Accountlogin.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svg/appartement.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+  </component>
+</project>
