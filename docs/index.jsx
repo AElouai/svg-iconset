@@ -10,7 +10,7 @@ class FotocasaIconset extends Component {
       return (
         <li className={'icon-item'} key={item}>
           <svgIcon.default
-            size={128}
+            size={328}
             fillColor='#b00b55'
             strokeColor='black'
             strokeWidth={0}
