@@ -1,6 +1,6 @@
 {
   "name": "@aelouai/materialdesignicons",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "ReactJS SUI SVG iconset for materialdesignicons",
   "main": "lib/",
   "scripts": {

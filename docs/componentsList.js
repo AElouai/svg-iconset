@@ -1,5 +1,5 @@
 module.exports = {
       componentsList: [
-         'Appartement', 'Atelier', 'Maison', 'Terrain'
+         'Appartement', 'Atelier', 'Maison', 'Terrain', 'Uplaod'
       ]
     }
